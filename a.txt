@@ -3,4 +3,5 @@ This is a test.
 Features:
  - Feature 1
  - Feature B
+ - Feature B.2
  - Feature C 
