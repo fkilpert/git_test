@@ -4,4 +4,5 @@ Features:
  - Feature 1
  - Feature B
  - Feature BB
+ - Feature b-c
  - Feature C 
