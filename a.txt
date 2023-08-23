@@ -7,3 +7,4 @@ Features:
  - Feature b-c
  - Feature C 
  - Feature dd
+ - feature E
