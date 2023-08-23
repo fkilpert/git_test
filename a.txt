@@ -2,4 +2,5 @@ This is a test.
 
 Features:
  - Feature 1
- - Feature 2 (k)
+ - Feature B
+ 
