@@ -10,3 +10,5 @@ Features:
  - feature E
  - feature F
  - feature G
+ - H
+ - I
