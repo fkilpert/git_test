@@ -8,3 +8,5 @@ Features:
  - Feature C 
  - Feature dd
  - feature E
+ - feature F
+ - feature G
